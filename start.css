@@ -1,0 +1,47 @@
+body{
+    background: url('welcome1.jpg') no-repeat center center fixed;
+    background-size: 100% 100%;
+    text-align: center;
+}
+
+.h{
+    /* border: 2px solid red; */
+    font-size: 35px;
+    color: rgb(239, 240, 245);
+}
+
+h1{
+    /* border: 2px solid black; */
+    font-size: 70px;
+    color: rgb(224, 11, 11);
+    
+}
+
+p{
+    /* border: 2px solid green; */
+    font-size: 30px;
+    color: rgb(171, 240, 10);
+    text-align: right;
+    
+}
+
+.btn form button{
+    margin-top:150px;
+    font-size: 35px;
+    border-radius: 10px;
+    background-color: blue;
+    color: red;
+}
+.btn form button:hover{
+    background-color: red;
+    color: white;
+}
+a{
+    background-color: blue;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    background-color: red;
+    color: white;
+}
